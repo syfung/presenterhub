@@ -3,13 +3,16 @@ OnSong Team
 Key: C
 Tempo: 85
 Time: 4/4
+# Comment
 
 Verse 1:
+# Comment
 to get [C]started with OnSong, [F]tap "Songs"
 you can [C]use this to manage your [G]music
 don't for[C]get you can swipe [F]left to right
 and sim[C]ply delete [G]songs you don't [C]like
 
+# Comment
 Verse 2:
 tap the gear icon all the way to the right
 and get help on any topic you need
@@ -33,5 +36,5 @@ Now you can use line formatting to...
 *bold a line of lyrics
 /or italicize it
 !or do both
-&red:or make it red
->yellow:even highlight it in yellow
+&redor make it red
+>yelloweven highlight it in yellow
