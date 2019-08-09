@@ -7,8 +7,8 @@ Author: Joshua Fung
 We assume the the first block is a data block, all the metadata will be
 there, seperated by a newline. Then each song section will be seperated
 by a newline, first the tag then a ":" follow by the song. A newline is
-not nessary, but encouraged. Chord is indicated by [], with know chord/
-unknow chord.
+nessary, things following the  ":" will be discarded. Chord is indicated
+by [], with know chord and unknow chord.
 
 Title
 Author
